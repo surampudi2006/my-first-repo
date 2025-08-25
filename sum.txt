@@ -1,4 +1,6 @@
 a=20
 b=40
-c=a+b
+d=60
+c=a+b+d
+
 print(c)
